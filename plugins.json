@@ -69,22 +69,13 @@
   "name": "Unethical Explorer",
   "description": "Automatically walks places",
   "id": "unethicalexplorer-plugin",
-  "releases": [
-    {
-      "date": "2023-08-27",
-      "sha512sum": "A3E2A6BA8D58410B514C8751B2CBBAB79F72A03C7CAF04425EF306E46B863AE886F5C61B7F32D349352F45A6CF78B561C7DE3ADFFE8146DC7BE858AC8AC6C6EE",
-      "version": "0.0.4",
-      "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-explorer-0.0.4.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2023-08-27",
-      "sha512sum": "01C576FBEA6B61E43322DE2915C9F4A5F1726F1EC34F6C31A08745463A88E0C396C0A17146500456356060D4D5AE24D9CDFD24805986D24EDDA6BBD022EAE8BC",
-      "version": "0.0.5",
-      "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-explorer-0.0.5.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2023-08-27",
+    "sha512sum": "30CFA93662BA595F83A909257CE6662E01A7E391463976EFBA3C09EC511DEAA4458CA3C41C6AD698B4E03BBC88860FAF42A925677A66D4606B7771F0E3AC1FD8",
+    "version": "0.0.5",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-explorer-0.0.5.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "fred4106",
