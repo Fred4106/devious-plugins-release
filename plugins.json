@@ -1,131 +1,140 @@
 [{
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Hoot Fighter",
   "description": "Simple fighter, supports eating, looting, alching, prayer potions, prayer flicking",
   "id": "hootfighter-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "2C0F3542E0A1222A36978F5EEE073E472DC7A639FCD26C408FC88BE7348A1225C82302BC7F426E7CA52C3A611F55C34E55BAF8B9145D2CCC2CA97CCAAE773D75",
+    "date": "2023-08-27",
+    "sha512sum": "3BB7C3023DA058EBCCBAE271F0845DD6253AF05B61B387AF5FEC466A190534AEBF13C36101C0B50EF0C66E1E97D9031E64B5A48641FB5A123C39F51E5B9380EE",
     "version": "0.0.7",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-fighter-0.0.7.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/hoot-fighter-0.0.7.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Agility",
   "description": "Completes Rooftop agility courses",
   "id": "unethicalagility-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "1B305AE6D9D608E0E868CAF36411755B06A84AD3C9622F5AA48F5B925BED73853D664662DA93BA4999F9BB4FA9B3E60704ACFC154F20B479B3206DA46A6614B4",
+    "date": "2023-08-27",
+    "sha512sum": "2152824D7EA1EDF0649F248B8256E8884A4447D043357C336914EFD9481045AF23BC34AD240D1462161CE4A1D95E564FA040FC1F066751ABA75111557C478952",
     "version": "0.0.3",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-agility-0.0.3.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-agility-0.0.3.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Auto Login",
   "description": "Automatically logs in specified account in config",
   "id": "unethicalautologin-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "D2261E82489748C3B89A4F6F391FF00219F54FE9E70A85E789A6101DA30E94BF3F133887AC570DD389C4159C6E6E1B5CCD436B395DB9E6E01223CB09388361DF",
+    "date": "2023-08-27",
+    "sha512sum": "93F20BD994BD406FEA50CA7CE6B2AB0B596F81168175E11D3B4B1F9E2DBDAE59FF4C5CC9B7A7F52B557E90546C7BFD51D1B9BD2F392D6612AF5335520A27FB1E",
     "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-autologin-0.0.2.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-autologin-0.0.2.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Butler",
   "description": "One-Clicks construction butler dialogs",
   "id": "unethicalbutler-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "675716D1FEFFAE32AB721F0367122A8A5991F96EEE0913803EA9119C813972E116403A8005F700421FB54FE59672FD9DDAC2883D803CF17651A652C44E15E93C",
+    "date": "2023-08-27",
+    "sha512sum": "EECE69B57C779A04ADB67D483BEC4D43DC269F68CA1DCAAAD38001EFC9C8790FBD60D891D28C9F79602BA3F7BA274C8A01475569F816557716FFF3F06B1944E3",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-butler-0.0.1.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-butler-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Chopper",
   "description": "Chops trees",
   "id": "unethicalchopper-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "281D5670A060F49FB4CA06BF3124B9F7AE973E735ABE762A06690811832EC8FC1FA6C73A063D0A3A9673D806EDA151F5A8D1956720C8C8121520A9C9E20CDB42",
+    "date": "2023-08-27",
+    "sha512sum": "A81436A10221E35B94D1E2578E125ADE9FCEA7C60838AF3B17E395CAC50D20D1AD32B18C9F170ED2BA4C82653B1D4006B2100A103EB353094454C25560B4B8D2",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-chopper-0.0.1.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-chopper-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Explorer",
   "description": "Automatically walks places",
   "id": "unethicalexplorer-plugin",
-  "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "AD99A1F50C64A44C5BCBA1F542AC988A895CDD67887F4B26D47ED11912DF5BCA2079C1016A9CCE9090F5878EBBA5F7AAF572BE3339551491A88116E971A73029",
-    "version": "0.0.4",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-explorer-0.0.4.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-08-27",
+      "sha512sum": "A3E2A6BA8D58410B514C8751B2CBBAB79F72A03C7CAF04425EF306E46B863AE886F5C61B7F32D349352F45A6CF78B561C7DE3ADFFE8146DC7BE858AC8AC6C6EE",
+      "version": "0.0.4",
+      "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-explorer-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-08-27",
+      "sha512sum": "01C576FBEA6B61E43322DE2915C9F4A5F1726F1EC34F6C31A08745463A88E0C396C0A17146500456356060D4D5AE24D9CDFD24805986D24EDDA6BBD022EAE8BC",
+      "version": "0.0.5",
+      "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-explorer-0.0.5.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Kebab buyer",
   "description": "Buys kebabs very quickly",
   "id": "unethicalkebabbuyer-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "33621ADF1DD28D93189A8CC5827166786C0E53A618EC475FC1EA3C43DE200F3637180FA14E48FF107A98D9E226A70DB81CA360A6363A6C75A2396E8C2B03A1D4",
+    "date": "2023-08-27",
+    "sha512sum": "F3ACC833FA7BA7F6EC7D7BF8DEB6AC1524D95F9F5B3E60A744EDAD2051DCC057726CD55DA2F674A8C1A47E46CF86F6E1E7CCCE5140558481A501E0BD984CF7F2",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-kebab-buyer-0.0.1.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-kebab-buyer-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical One Click",
   "description": "Allows you to One-Click interactions",
   "id": "unethicaloneclick-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "15C00612556A5189C91A25CFD7DF0DE6841AD4A8947779E5DE56E2F2CAE9436EFA878D9D200A2D8DB3683F241A0044893A29AE239FD91BE5AB310758906FE9AF",
+    "date": "2023-08-27",
+    "sha512sum": "C430DD381C83861F1FE90692917F0733DB0302880552EB6F7C2E24BBDFAC4FDBCF8B7B4063A525394F0CE18FF8025DDA7141A6FF200F1C37AD265BF395473712",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-oneclick-0.0.1.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-oneclick-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Prayer",
   "description": "Toggles protection prayers on certain events",
   "id": "unethicalprayer-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "7C6E30B8ACAE4526A053EEE0A2167F65AEC32F61F3895B071AF54194181CD98982B836D3F6B97F16A5BDF5ADC1090B49DEC9AF682E0C4ECF51290677372CBC60",
+    "date": "2023-08-27",
+    "sha512sum": "DEF8CD41C99DA9224F5118AFDD6AC0A71DF8CD383FDC76C8A98F9FFAF66BFE809389F292D2B9488C82C25305F570FA361C88C5C4D1BFC1F57CFD594876E027B9",
     "version": "0.0.5",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-prayer-0.0.5.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-prayer-0.0.5.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
+  "provider": "fred4106",
   "name": "Unethical Zulrah",
   "description": "Kills Zulrah for you",
   "id": "unethicalzulrah-plugin",
   "releases": [{
-    "date": "2022-08-08",
-    "sha512sum": "CAF2A129BE9F9E6EFA71D6402A8DDE23D83BA884DA2CA2043470E1590A6B16A55427D0AA4A488148E2E8FAA86DF0621F1FB90D0954D8961CCA6A4F2C2E2F6D03",
+    "date": "2023-08-27",
+    "sha512sum": "2FF5885011032AD7F925253E4CC748B15DF63503638DB7F1E88A46A9651C8042233787DC0380083A3FE421A70CEBACBBA7F16EB73CAF7D3669ACA1E6B98C8B36",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-zulrah-0.0.1.jar",
+    "url": "https://github.com/fred4106/devious-plugins-release/raw/master/unethical-zulrah-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }]
